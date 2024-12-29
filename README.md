@@ -1,4 +1,6 @@
-# ineural-
+# ineural-NerualNetwork Nerual Network Neuron
+
+simple neuero network with C/C++ and QT Code
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
